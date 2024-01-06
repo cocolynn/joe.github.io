@@ -22,9 +22,9 @@
 <h2><a href = "https://joe.github.io" target="_blank" 
 style= "color:black; text-decoration:none;">Kechen Li</a></h2>
 <hr/> 
-Address: No. 29, Yudao Street, Qinhuai District, Nanjing, Jiangsu Province
+🌁Address: No. 29, Yudao Street, Qinhuai District, Nanjing, Jiangsu Province
 <br/>📞Phone: +86 18106289189
-<br/>Nantong, Jiangsu, China
+<br/>📍Nantong, Jiangsu, China
 <body>
 </body>
 </html>
@@ -34,15 +34,13 @@ Address: No. 29, Yudao Street, Qinhuai District, Nanjing, Jiangsu Province
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <font face = "Times New Roman"/>
  
-Email: <a href = " likechen@linchance.com " target="_blank" style= "color:black; text-decoration:none;" > likechen@linchance.com </a>
-<p> </p>
-
+📮Email: <a href = " likechen@linchance.com " target="_blank" style= "color:black; text-decoration:none;" > likechen@linchance.com </a>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <font face = "Times New Roman"/>
 </head>
 <br/>
-<h1>📚Education</h1>
+<h1>🎓Education</h1>
 <hr width = 775px align = "left"/> 
 ●&ensp;University of Galway, Ireland &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;09/2025 - 07/2026<br/>
 Computer Science and Technology <br/>
@@ -65,11 +63,14 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>●&ensp;Li, K. et al.(2023). “Deciphering Modern Customer Loyalty: A Machine Learning Approach.” The 2023 3rd International Conference on Internet of Things and Machine Learning. SPIE – The International Society for Optical Engineering. ISSN0277 - 786X.  EI Compendex, SCOPUS. Doi：10.1117/12.3016467.
 </font></p>
 
-<h1>🌀Skills</h1>
+<h1>📚Certificate</h1>
 <hr width = 775px align = "left"/> 
-<p> <font size = "4.5">C/C++, MATLAB, Python, Java, Mathematica, HTML; 
-Linux, Origin Lab, Qt Creator (GUI), LaTeX;<br/>Point Cloud Library(PCL), Caffe(Machine Learning), Spyder; 
-Numpy, Scikit-learn/image, Matplotlib</font></p>
+<p> <font size = "4.5">
+<br/>●&ensp;Senior-Certified Data Analyst (China Financial Analysis Association) 02/2023
+<br/>●&ensp;Intermediate-Software Designer (Ministry of Human Resources and Social Security) 11/2022
+<br/>●&ensp;Industrial Internet Platform Development Engineer Intermediate (Talent Exchange Center of the Ministry of Industry and Information Technology) 12/2022
+<br/>●&ensp;National Computer Rank Examination Level 1 (Office) 03/2019
+<br/>●&ensp;National Computer Rank Examination Level 2 (C Language) 03/2023
 
 <h1>🌎Projects</h1>
 <hr width = 775px align = "left"/> 
@@ -98,11 +99,13 @@ Numpy, Scikit-learn/image, Matplotlib</font></p>
 <br/>●&ensp;Demonstrate expertise in software development and innovation by obtaining national recognition for the aforementioned projects.
 <br/>●&ensp;Proven track record of delivering cutting-edge solutions through the creation of innovative software products in the field of intelligent career planning and talent matching.
 <br/>
+<br/>
 <b>Nantong Himool Information Technology Co., Ltd.</b> 
 <br/><i>Software Engineer</i> 
 <br/>●&ensp;Managed secondary development of WMS and ERP systems, tailoring customisation to meet specific requirements, enhancing system functionality and performance.
 <br/>●&ensp;Drafted high-quality code and conducted thorough code reviews and optimisations to ensure project reliability and maintainability.
 <br/>●&ensp;Produced instructional video courses, serving as an ERP expert to explain the intricacies of the ERP system, thereby contributing to the company’s training initiatives and open-source knowledge sharing. GitHub: https://github.com/Joe-2002/sweettalk-django4.2
+<br/>
 <br/>
 <b>Nantong Normal College. </b> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;04/2023–06/2023
@@ -111,19 +114,22 @@ Numpy, Scikit-learn/image, Matplotlib</font></p>
 <br/><Managed a workload of 12 weekly teaching hours, effectively delivering course material and engaging students in learning.
 <br/>●&ensp;Demonstrated strong teaching skills and effectively communicated complex concepts, resulting in positive student feedback and academic success.
 <br/>
+     <br/>
 <b>Hai’an City Teacher Development Centre Affiliated Primary School.</b>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;04/2022–05/2022
 <br/><i>Primary Teacher</i>  
 <br/>●&ensp;Crafted and executed comprehensive software programming workshops for intermediate-level learners, immersing students in the intricacies of coding languages and fostering a deep understanding of algorithmic concepts.
 <br/>●&ensp;Devised and facilitated interactive coding challenges and projects, cultivating a dynamic learning environment that honed students’ problem-solving skills and nurtured their creativity in software development.
 <br/>
+ <br/>
 <b>kdf.ai.</b> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;07/2022–11/2022
 <br/><i>Software Engineer, Technical Department</i>  
 <br/>●&ensp;Developed data annotation software with key features, including data set importing, displaying comprehensive data content, querying information, and modifying and deleting information.
 <br/>●&ensp;Implemented user-specific text annotation capabilities, allowing users to annotate assigned texts for subsequent natural language processing tasks.
 <br/>●&ensp;Developed a mobile data annotation tool built with a frontend-backend separation architecture using the Django and UniApp frameworks, provided an efficient solution for data processing in the enterprise’s NLP models.
-
+<br/>
+<br/>
 <h1>💻Project Experience  </h1>
 <hr width = 775px align = "left"/> 
 <b>Classification of Chinese Medicinal Materials based on Principal Component Analysis and K-Nearest Neighbour Algorithm. </b>
@@ -131,12 +137,14 @@ Numpy, Scikit-learn/image, Matplotlib</font></p>
 <br/>●&ensp;Overview: Based on the near-infrared and mid-infrared spectra of medicinal herbs, the project aims to identify the types, origins, and categories of medicinal herbs, as well as analyse their characteristics and differences.
 <br/>●&ensp;Responsibility: Data preprocessing, feature selection, and feature dimensionality reduction. Established multiple classification models (K-means, KNN, SVM). Ultimately, determined KNN as the classification model with an accuracy rate of over 90%.
 <br/>●&ensp;Achievement: Jiangsu Regional First Prize, 2021 National Undergraduate Mathematical Contest in Modelling.    
-
+<br/>
+<br/>
 <b>Forward to the Profession—An Intelligent Career Planning System Based on Data Mining.</b>
 <br/>Group Project Leader: Product Architecture and Team Management. 2021 Jiangsu Provincial College Students’ Innovative Entrepreneurial Training Plan Programme (202114493020Y).
 <br/>●&ensp;Overview: By leveraging data mining techniques, this project assesses users’ career planning abilities and provides scientifically sound career planning strategies and tools to help users develop their self-directed career planning skills.
 <br/>●&ensp;Responsibility: Led product architecture and managed a team. Utilised data mining techniques for assessing users' career planning abilities. Analysed and extracted career interests, skills, and goals using feature engineering. Implemented a stacking model with GBDT and XGBoost algorithms for matching prediction. Iteratively optimised the intelligent career planning system.
-
+<br/>
+<br/>
 <b>LinChance_GPT.</b> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<b>GitHub:</b> https://github.com/Joe-2002/LinChance_GPT
 <br/>Group Project Leader. 
 <br/>●&ensp;Awards: First Prize, Datawhale “AI Summer Camp (Second Edition)”, Excellence Award & Best Innovation Award, Datawhale Open SourceOpen-Source Learning.
