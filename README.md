@@ -3,7 +3,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Frame Setting</title>
 </head>
 <frameset rows="10%,90%" frameborder="no" scrolling="no">
      <frame src="Top.html" frameborder = "no" scrolling="no" noresize/>
@@ -11,8 +10,6 @@
          <frame src="Bottom_Left.html" frameborder = "no" scrolling="no" noresize/>
          <frame src="Bottom_Right.html" frameborder = "no"scrolling="no"  noresize/>
 </frameset>
-</frameset><noframes></noframes>
-
 <body>
 </body>
 <!DOCTYPE html>
@@ -20,12 +17,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <font face = "Times New Roman"/>
-<title>Top Frame</title>
 </head>
 
-<h2><a href = "https://username.github.io" target="_blank" 
+<h2><a href = "https://joe.github.io" target="_blank" 
 style= "color:black; text-decoration:none;">Kechen Li</a></h2>
 <hr/> 
+Address: No. 29, Yudao Street, Qinhuai District, Nanjing, Jiangsu Province
+<br/>📞Phone: +86 18106289189
+<br/>Nantong, Jiangsu, China
 <body>
 </body>
 </html>
@@ -34,23 +33,16 @@ style= "color:black; text-decoration:none;">Kechen Li</a></h2>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <font face = "Times New Roman"/>
-<br/>
-<a href = " likechen@linchance.com " target="_blank" style= "color:black; text-decoration:none;" > likechen@linchance.com </a>
+ 
+Email: <a href = " likechen@linchance.com " target="_blank" style= "color:black; text-decoration:none;" > likechen@linchance.com </a>
 <p> </p>
 
-Nantong, Jiangsu, China
-<p> </p>
 
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <font face = "Times New Roman"/>
 </head>
 <br/>
-<h1>✨Education</h1>
+<h1>📚Education</h1>
 <hr width = 775px align = "left"/> 
 ●&ensp;University of Galway, Ireland &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;09/2025 - 07/2026<br/>
 Computer Science and Technology <br/>
