@@ -74,6 +74,7 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 
 <h1>🌎Projects</h1>
 <hr width = 775px align = "left"/> 
+<p> <font size = "4.5">
 <b>●&ensp;“Research on the Factors Influencing User Experience of Beijing Mobile Based on XGBoost.”</b> 
 <br/>This study focuses on investigating the factors that influence user experience for Beijing Mobile users. By using Pearson correlation coefficient analysis, the study examines various factors that impact user satisfaction and ratings, providing a basis for decision-making. Additionally, an XGBoost prediction model is developed based on the relevant influencing factors to predict customer ratings.
 <br/>Keywords: Influential Factors; Pearson Correlation Coefficient; Satisfaction Prediction; Machine Learning; XGBoost.
@@ -91,6 +92,7 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 
 <h1>📌Professional Experience   </h1>
 <hr width = 775px align = "left"/> 
+<p> <font size = "4.5">
 <b>Jiangsu Lincheng Technology Co., Ltd. (Member of Nantong Software Industry Association)</b>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;10/2021–present
 <br/><i>Legal representative，CEO</i> 
@@ -132,6 +134,7 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>
 <h1>💻Project Experience  </h1>
 <hr width = 775px align = "left"/> 
+<p> <font size = "4.5">
 <b>Classification of Chinese Medicinal Materials based on Principal Component Analysis and K-Nearest Neighbour Algorithm. </b>
 <br/>Group Project Leader: Data Analysis and Model Building.
 <br/>●&ensp;Overview: Based on the near-infrared and mid-infrared spectra of medicinal herbs, the project aims to identify the types, origins, and categories of medicinal herbs, as well as analyse their characteristics and differences.
@@ -152,6 +155,8 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>●&ensp;Responsibility: Conducted market research and competitor analysis, identified target users. Implemented efficient storage, retrieval, and matching of knowledge base data using vector databases. Leveraged GPT models for fast full-text search and precise result matching. Developed secure backend with Django and visually appealing frontend with Vue.js. Integrated with LangChain's API and other technologies for enhanced data processing. Utilised LangChain and GPT models to improve user experience with intelligent replies.
 
 <h1>📜Extracurricular Activity</h1>
+<hr width = 775px align = "left"/> 
+<p> <font size = "4.5">
 <b> Nantong Normal College</b> 
 <br/>●&ensp;President, Technology Innovation Society (01/2021-07/2023): Organised and managed the Society, overseeing discipline-oriented competitions; Taught and mentored participants, achieving outstanding results and a large audience; Recognised as a Five-Star Society and an active organisation.
 <b> Nantong Normal College</b> 
@@ -161,6 +166,8 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 
 
 <h1>📝Copyrights</h1>
+<hr width = 775px align = "left"/> 
+<p> <font size = "4.5">
 <br/>●&ensp;Recreational Vehicle Market Demand Marketing System (2023SR0217158). 	11/2022
 <br/>●&ensp;Talent Matching System V1.0 based on Artificial Intelligence (2022SR1570163).  	08/2022
 <br/>●&ensp;Intelligent Career Planning System 2.1 based on Data Mining and User Profiling (2022SR1346851). 	03/2022
@@ -168,6 +175,8 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>●&ensp;Digital Intelligent Enterprise Intelligent Assistant System Based on LLM (Large Language Model) and Vector Database (2023SR1583655). 	08/2023
 
 <h1>🎖Honors and Awards</h1>
+<hr width = 775px align = "left"/> 
+<p> <font size = "4.5">
 <br/>●&ensp;2023 Baidu Search Innovation Competition Search Answer Organization Track Top 10.	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;12/2023
 <br/>●&ensp;2023 Baidu Search Innovation Competition Design an AI native application track that solves the needs of search users Champion.&ensp;&ensp;&ensp;12/2023
 <br/>●&ensp;Merit Student of Nantong City. 	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;05/2023
