@@ -41,7 +41,7 @@
 </div>
 <h2><a href = "https://joe.github.io" target="_blank" 
 style= "color:black; text-decoration:none;">Kechen Li</a></h2>
-<hr/> 
+<hr/>
 🌁Address: No. 29, Yudao Street, Qinhuai District, Nanjing, Jiangsu Province
 <br/>📞Phone: +86 18106289189
 <br/>📍Nantong, Jiangsu, China
@@ -61,7 +61,7 @@ style= "color:black; text-decoration:none;">Kechen Li</a></h2>
 </head>
 <br/>
 <h1>🎓Education</h1>
-<hr width = 775px align = "left"/> 
+
 ●&ensp;<b>University of Galway, Ireland</b>
 <br/><i>09/2025 - 07/2026</i><br/>
 Computer Science and Technology <br/>
@@ -83,22 +83,18 @@ Higher Education Diploma in Computer Application Technology
 Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Application Development<br/>
 
 <h1>⭐Publications</h1>
-<hr width = 775px align = "left"/> 
-<p> <font size = "4.5">●&ensp;Zou, J., Li, K. (2023). “Research on the Digitised Marketing and Operational Models in the Automotive Industry.” Shanghai Business. ISSN1007-2845. 
+●&ensp;Zou, J., Li, K. (2023). “Research on the Digitised Marketing and Operational Models in the Automotive Industry.” Shanghai Business. ISSN1007-2845. 
 <br/>●&ensp;Li, K. et al.(2023). “Deciphering Modern Customer Loyalty: A Machine Learning Approach.” The 2023 3rd International Conference on Internet of Things and Machine Learning. SPIE – The International Society for Optical Engineering. ISSN0277 - 786X.  EI Compendex, SCOPUS. Doi：10.1117/12.3016467.
 </font></p>
 
 <h1>📚Certificate</h1>
-<hr width = 775px align = "left"/> 
-<p> <font size = "4.5">
-<br/>●<i>02/2023</i>&ensp;Senior-Certified Data Analyst (China Financial Analysis Association) 
+●<i>02/2023</i>&ensp;Senior-Certified Data Analyst (China Financial Analysis Association) 
 <br/>●<i>11/2022</i>&ensp;Intermediate-Software Designer (Ministry of Human Resources and Social Security) 
 <br/>●<i>12/2022</i>&ensp;Industrial Internet Platform Development Engineer Intermediate (Talent Exchange Center of the Ministry of Industry and Information Technology) 
 <br/>●<i>03/2019</i>&ensp;National Computer Rank Examination Level 1 (Office) 
 <br/>●<i>03/2023</i>&ensp;National Computer Rank Examination Level 2 (C Language) 
 
 <h1>🌎Projects</h1>
-<hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
 <b>●&ensp;“Research on the Factors Influencing User Experience of Beijing Mobile Based on XGBoost.”</b> 
 <br/>This study focuses on investigating the factors that influence user experience for Beijing Mobile users. By using Pearson correlation coefficient analysis, the study examines various factors that impact user satisfaction and ratings, providing a basis for decision-making. Additionally, an XGBoost prediction model is developed based on the relevant influencing factors to predict customer ratings.
@@ -116,7 +112,6 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>Achievement: Jiangsu Regional Second Prize, 2022 National Undergraduate Mathematical Contest in Modelling.           
 
 <h1>📌Professional Experience   </h1>
-<hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
 <b>Jiangsu Lincheng Technology Co., Ltd. (Member of Nantong Software Industry Association)</b>
 <br/><i>10/2021–present</i>
@@ -159,7 +154,6 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>
 <br/>
 <h1>💻Project Experience  </h1>
-<hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
 <b>Classification of Chinese Medicinal Materials based on Principal Component Analysis and K-Nearest Neighbour Algorithm. </b>
 <br/>Group Project Leader: Data Analysis and Model Building.
@@ -181,8 +175,7 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>●&ensp;Responsibility: Conducted market research and competitor analysis, identified target users. Implemented efficient storage, retrieval, and matching of knowledge base data using vector databases. Leveraged GPT models for fast full-text search and precise result matching. Developed secure backend with Django and visually appealing frontend with Vue.js. Integrated with LangChain's API and other technologies for enhanced data processing. Utilised LangChain and GPT models to improve user experience with intelligent replies.
 
 <h1>📜Extracurricular Activity</h1>
-<hr width = 775px align = "left"/> 
-<p> <font size = "4.5">
+ <font size = "4.5">
 <b> Nantong Normal College</b> 
 <br/>●&ensp;President, Technology Innovation Society (<i>01/2021-07/2023)</i>: Organised and managed the Society, overseeing discipline-oriented competitions; Taught and mentored participants, achieving outstanding results and a large audience; Recognised as a Five-Star Society and an active organisation.
 <b> Nantong Normal College</b> 
@@ -192,18 +185,16 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 
 
 <h1>📝Copyrights</h1>
-<hr width = 775px align = "left"/> 
-<p> <font size = "4.5">
-<br/>●&ensp;Recreational Vehicle Market Demand Marketing System (2023SR0217158). 	11/2022
+ <font size = "4.5">
+●&ensp;Recreational Vehicle Market Demand Marketing System (2023SR0217158). 	11/2022
 <br/>●&ensp;Talent Matching System V1.0 based on Artificial Intelligence (2022SR1570163).  	08/2022
 <br/>●&ensp;Intelligent Career Planning System 2.1 based on Data Mining and User Profiling (2022SR1346851). 	03/2022
 <br/>●&ensp;Teaching Collaboration Platform V1.0 Based on Django and Vue Front-End Separation (2021SR1494741).	08/2023
 <br/>●&ensp;Digital Intelligent Enterprise Intelligent Assistant System Based on LLM (Large Language Model) and Vector Database (2023SR1583655). 	08/2023
 
 <h1>🎖Honors and Awards</h1>
-<hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
-<br/>●<i>12/2023</i>&ensp;2023 Baidu Search Innovation Competition Search Answer Organization Track Top 10.
+●<i>12/2023</i>&ensp;2023 Baidu Search Innovation Competition Search Answer Organization Track Top 10.
 <br/>●<i>12/2023</i>&ensp;2023 Baidu Search Innovation Competition Design an AI native application track that solves the needs of search users Champion.&ensp;&ensp;&ensp;
 <br/>●<i>05/2023</i>&ensp;Merit Student of Nantong City. 	
 <br/>●<i>04/2023</i>&ensp;National Excellent Award and Provincial First Prize, the 14th “Lanqiao Cup” C/C++ Programming Contest. 
