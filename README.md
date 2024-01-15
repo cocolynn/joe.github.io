@@ -62,18 +62,23 @@ style= "color:black; text-decoration:none;">Kechen Li</a></h2>
 <br/>
 <h1>🎓Education</h1>
 <hr width = 775px align = "left"/> 
-●<b>09/2025 - 07/2026</b>&ensp;&ensp;University of Galway, Ireland 
+●&ensp;<b>University of Galway, Ireland</b>
+<br/><i>09/2025 - 07/2026</i><br/>
 Computer Science and Technology <br/>
 Core Modules: Data Analytics Programming, Networks and Network Science, Data Visualization, Data Analytics Case Studies<br/>
-●<b>07/2022-08/2026(expected)</b>&ensp;&ensp;Nanjing Agricultural University
+●&ensp;<b>Nanjing Agricultural University</b>
+<br/><i>07/2022-08/2026(expected)</i><br/>
 Bachelor’s Degree in Business Administration (Part-Time)<br/>
 Core Modules: Modern Project Management, Data Modelling and Decision Making, Financial Management, Enterprise Business Strategy, Financial Theory and Practise<br/>
-●<b>09/2023-07/2025</b>&ensp;&ensp;Nanjing University of Aeronautics and Astronautics &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<br/>
+●&ensp;<b>Nanjing University of Aeronautics and Astronautics</b>
+<br/><i>09/2023-07/2025</i><br/>
 Higher Education for Academic Qualification in Software Engineering (Full-Time)<br/>
-●<b>10/2019- 12/2024 (expected)</b>&ensp;&ensp;Nanjing University of Aeronautics and Astronautics<br/>
+●&ensp;<b>Nanjing University of Aeronautics and Astronautics</b>;
+<br/><i>10/2019- 12/2024 (expected)</i><br/>
 Computer Science and Technology
 Core Modules: Advanced Mathematics, Discrete Mathematics, C++ Programming, Computer Networks, Computer System Architecture, Data Structures, Software Engineering, Operating Systems<br/>
-●<b>09/2018-07/2023</b>&ensp;&ensp;Nantong Normal College<br/>
+●&ensp;<b>Nantong Normal College</b>
+<br/><i>09/2018-07/2023</i><br/>
 Higher Education Diploma in Computer Application Technology
 Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Application Development<br/>
 
@@ -86,11 +91,11 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <h1>📚Certificate</h1>
 <hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
-<br/>●&ensp;Senior-Certified Data Analyst (China Financial Analysis Association) 02/2023
-<br/>●&ensp;Intermediate-Software Designer (Ministry of Human Resources and Social Security) 11/2022
-<br/>●&ensp;Industrial Internet Platform Development Engineer Intermediate (Talent Exchange Center of the Ministry of Industry and Information Technology) 12/2022
-<br/>●&ensp;National Computer Rank Examination Level 1 (Office) 03/2019
-<br/>●&ensp;National Computer Rank Examination Level 2 (C Language) 03/2023
+<br/>●<i>02/2023</i>&ensp;Senior-Certified Data Analyst (China Financial Analysis Association) 
+<br/>●<i>11/2022</i>&ensp;Intermediate-Software Designer (Ministry of Human Resources and Social Security) 
+<br/>●<i>12/2022</i>&ensp;Industrial Internet Platform Development Engineer Intermediate (Talent Exchange Center of the Ministry of Industry and Information Technology) 
+<br/>●<i>03/2019</i>&ensp;National Computer Rank Examination Level 1 (Office) 
+<br/>●<i>03/2023</i>&ensp;National Computer Rank Examination Level 2 (C Language) 
 
 <h1>🌎Projects</h1>
 <hr width = 775px align = "left"/> 
@@ -114,8 +119,7 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
 <b>Jiangsu Lincheng Technology Co., Ltd. (Member of Nantong Software Industry Association)</b>
-<br/>10/2021–present
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<br/><i>10/2021–present</i>
 <br/><i>Legal representative，CEO</i> 
 <br/>●&ensp;Led the team in independent development of multiple products, responsible for project portfolio management, software architecture design, etc.
 <br/>●&ensp;Successfully secure multiple national software copyrights.
@@ -124,6 +128,7 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>
 <br/>
 <b>Nantong Himool Information Technology Co., Ltd.</b> 
+<br/><i>05/2023-07/2023</i>
 <br/><i>Software Engineer</i> 
 <br/>●&ensp;Managed secondary development of WMS and ERP systems, tailoring customisation to meet specific requirements, enhancing system functionality and performance.
 <br/>●&ensp;Drafted high-quality code and conducted thorough code reviews and optimisations to ensure project reliability and maintainability.
@@ -131,7 +136,7 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>
 <br/>
 <b>Nantong Normal College. </b> 
-<br/>04/2023–06/2023
+<br/><i>04/2023–06/2023</i>
 <br/><i>Corporate External Instructor, School of Management</i>  
 <br/>●&ensp;Designed and taught content for five distinct educational units, including two classes on Cross-border E-commerce and Data Analysis and Online Store Operation and Management.
 <br/><Managed a workload of 12 weekly teaching hours, effectively delivering course material and engaging students in learning.
@@ -139,14 +144,14 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>
 <br/>
 <b>Hai’an City Teacher Development Centre Affiliated Primary School.</b>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<br/><i>04/2022–05/2022</i>
 <br/><i>Primary Teacher</i>  
 <br/>●&ensp;Crafted and executed comprehensive software programming workshops for intermediate-level learners, immersing students in the intricacies of coding languages and fostering a deep understanding of algorithmic concepts.
 <br/>●&ensp;Devised and facilitated interactive coding challenges and projects, cultivating a dynamic learning environment that honed students’ problem-solving skills and nurtured their creativity in software development.
 <br/>
  <br/>
 <b>kdf.ai.</b>
- <br/>07/2022–11/2022
+ <br/><i>07/2022–11/2022</i>
 <br/><i>Software Engineer, Technical Department</i>  
 <br/>●&ensp;Developed data annotation software with key features, including data set importing, displaying comprehensive data content, querying information, and modifying and deleting information.
 <br/>●&ensp;Implemented user-specific text annotation capabilities, allowing users to annotate assigned texts for subsequent natural language processing tasks.
@@ -179,9 +184,9 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
 <b> Nantong Normal College</b> 
-<br/>●&ensp;President, Technology Innovation Society (01/2021-07/2023): Organised and managed the Society, overseeing discipline-oriented competitions; Taught and mentored participants, achieving outstanding results and a large audience; Recognised as a Five-Star Society and an active organisation.
+<br/>●&ensp;President, Technology Innovation Society (<i>01/2021-07/2023)</i>: Organised and managed the Society, overseeing discipline-oriented competitions; Taught and mentored participants, achieving outstanding results and a large audience; Recognised as a Five-Star Society and an active organisation.
 <b> Nantong Normal College</b> 
-<br/>●&ensp;Leader, Algorithm Training Team (12/2020-07/2023): Established and managed the first technology-based club; Achieved outstanding results and received accolades in discipline competitions; Mentored and guided 60+ team members, who won national and provincial awards.
+<br/>●&ensp;Leader, Algorithm Training Team (<i>12/2020-07/2023</i>): Established and managed the first technology-based club; Achieved outstanding results and received accolades in discipline competitions; Mentored and guided 60+ team members, who won national and provincial awards.
 <b> Nanjing University of Aeronautics and Astronautics</b> 
 <br/>●&ensp;Director of the Academic Department of the Association for Mathematical Modeling (10/2023 – Present)：Organize and conduct various lectures and courses. Improve students' mathematical modeling skills and academic literacy. Participate in the organization of student competitions. Successfully organized a series of high-quality lectures and competitions, and was awarded the Five-Star Club.
 
@@ -198,26 +203,26 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <h1>🎖Honors and Awards</h1>
 <hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
-<br/>●&ensp;2023 Baidu Search Innovation Competition Search Answer Organization Track Top 10.	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;12/2023
-<br/>●&ensp;2023 Baidu Search Innovation Competition Design an AI native application track that solves the needs of search users Champion.&ensp;&ensp;&ensp;12/2023
-<br/>●&ensp;Merit Student of Nantong City. 	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;05/2023
-<br/>●&ensp;National Excellent Award and Provincial First Prize, the 14th “Lanqiao Cup” C/C++ Programming Contest. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;04/2023
-<br/>●&ensp;Top 50 in the 2022 China College Social Entrepreneurship Practise. 	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;01/2023
-<br/>●&ensp;National Bronze, the “Mati Cup” National Vocational College Programming Contest. 	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;12/2022
-<br/>●&ensp;Silver Award, the 12th “Ch&ensp;&ensp;&ensp;&ensp;allenge Cup” Jiangsu Province College Student Entrepreneurship Plan Competition.   	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;11/2022
-<br/>●&ensp;National Third Prize and Provincial Second Prize, the 2022 RoboCom World Robot Developer Contest.                  	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;08/2022
-<br/>●&ensp;Project “Forward to the Profession—An Intelligent Career Planning System Based on Data Mining” (Project ID: 202114493020Y), Jiangsu Province College Students' Innovation and Entrepreneurship Training Programme.	    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;07/2022
-<br/>●&ensp;2022 Merit Student of Nantong City.    	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;06/2022
-<br/>●&ensp;National Excellent Award and Provincial First Prize, the 13th “Lanqiao Cup” C/C++ Programming Contest.          	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;05/2022
-<br/>●&ensp;First Prize, Team Programming Ladder Competition “Challengers’ Arena” in Jiangsu Province at the China College Computer<br/> Competition.&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;05/2022
-<br/>●&ensp;Two Bronze Awards, the 17th “Challenge Cup” Jiangsu Province College Students’ Extracurricular Academic Science and Technology Works Competition.    	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;12/2021
-<br/>●&ensp;Project “Career Circle” (Project ID: 202014493010Y), Jiangsu Province College Students' Innovation and Entrepreneurship Training Programme.	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;07/2021
-<br/>●&ensp;National Excellent Award and Provincial First Prize, the 12th “Lanqiao Cup” C/C++ Programming Contest.          	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;06/2021
-<br/>●&ensp;First Prize, Team Programming Ladder Competition “Challengers’ Arena” in Jiangsu Province at the China College Computer Competition.                                             &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;05/2021
-<br/>●&ensp;Third Class Scholarship, Nantong Normal College.                                                                                                                                &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;05/2021
-<br/>●&ensp;Excellent Student Cadre, Nantong Normal College.                                                                                                                               &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;05/2021
-<br/>●&ensp;Bronze Award, the 11th “Challenge Cup” Jiangsu Province College Student Entrepreneurship Plan Competition.	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;12/2020
-<br/>●&ensp;National Third Prize and Provincial First Prize, the 11th “Lanqiao Cup” C/C++ Programming Contest. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;11/2020
+<br/>●<i>12/2023</i>&ensp;2023 Baidu Search Innovation Competition Search Answer Organization Track Top 10.
+<br/>●<i>12/2023</i>&ensp;2023 Baidu Search Innovation Competition Design an AI native application track that solves the needs of search users Champion.&ensp;&ensp;&ensp;
+<br/>●<i>05/2023</i>&ensp;Merit Student of Nantong City. 	
+<br/>●<i>04/2023</i>&ensp;National Excellent Award and Provincial First Prize, the 14th “Lanqiao Cup” C/C++ Programming Contest. 
+<br/>●<i>01/2023</i>&ensp;Top 50 in the 2022 China College Social Entrepreneurship Practise. 	
+<br/>●<i>12/2022</i>&ensp;National Bronze, the “Mati Cup” National Vocational College Programming Contest. 	
+<br/>●<i>11/2022</i>&ensp;Silver Award, the 12th “Ch&ensp;&ensp;&ensp;&ensp;allenge Cup” Jiangsu Province College Student Entrepreneurship Plan Competition.   	
+<br/>●<i>08/2022</i>&ensp;National Third Prize and Provincial Second Prize, the 2022 RoboCom World Robot Developer Contest.                  	
+<br/>●<i>07/2022</i>&ensp;Project “Forward to the Profession—An Intelligent Career Planning System Based on Data Mining” (Project ID: 202114493020Y), Jiangsu Province College Students' Innovation and Entrepreneurship Training Programme.	    
+<br/>●<i>06/2022</i>&ensp;2022 Merit Student of Nantong City.    	
+<br/>●<i>05/2022</i>&ensp;National Excellent Award and Provincial First Prize, the 13th “Lanqiao Cup” C/C++ Programming Contest.          	
+<br/>●<i>05/2022</i>&ensp;First Prize, Team Programming Ladder Competition “Challengers’ Arena” in Jiangsu Province at the China College Computer Competition.
+<br/>●<i>12/2021</i>&ensp;Two Bronze Awards, the 17th “Challenge Cup” Jiangsu Province College Students’ Extracurricular Academic Science and Technology Works Competition.    	
+<br/>●<i>07/2021</i>&ensp;Project “Career Circle” (Project ID: 202014493010Y), Jiangsu Province College Students' Innovation and Entrepreneurship Training Programme.	
+<br/>●<i>06/2021</i>&ensp;National Excellent Award and Provincial First Prize, the 12th “Lanqiao Cup” C/C++ Programming Contest.          
+<br/>●<i>05/2021</i>&ensp;First Prize, Team Programming Ladder Competition “Challengers’ Arena” in Jiangsu Province at the China College Computer Competition.                               
+<br/>●<i>05/2021</i>&ensp;Third Class Scholarship, Nantong Normal College.                                                                                                                             
+<br/>●<i>05/2021</i>&ensp;Excellent Student Cadre, Nantong Normal College.                                                                                                                 
+<br/>●<i>12/2020</i>&ensp;Bronze Award, the 11th “Challenge Cup” Jiangsu Province College Student Entrepreneurship Plan Competition.	
+<br/>●<i>11/2020</i>&ensp;National Third Prize and Provincial First Prize, the 11th “Lanqiao Cup” C/C++ Programming Contest. 
 
 
 
