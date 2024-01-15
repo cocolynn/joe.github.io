@@ -1,24 +1,44 @@
-# joe.github.io
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-</head>
-<frameset rows="10%,90%" frameborder="no" scrolling="no">
-     <frame src="Top.html" frameborder = "no" scrolling="no" noresize/>
-     <frameset cols="325px,*" >
-         <frame src="Bottom_Left.html" frameborder = "no" scrolling="no" noresize/>
-         <frame src="Bottom_Right.html" frameborder = "no"scrolling="no"  noresize/>
-</frameset>
-<body>
-</body>
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<font face = "Times New Roman"/>
-</head>
-
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button count="9">
+             <div class="navicon">
+               ::before
+               ::after
+             </div>
+          </button>
+          <ul class="visible-links">
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a>
+            </li>
+            <li class="masthead__menu-item">
+               <a href="/#about-me">About Me
+                ::before
+                "About Me"
+               </a>
+            </li>
+            <li class="masthead__menu-item">
+                 <a href="/#-news">
+               ::before
+               "News"
+               </a>
+            </li>
+          </ul>
+            <li class="masthead__menu-item"><a href="/#-educations">Educations</a></li>
+          
+            <li class="masthead__menu-item"><a href="/#-publications">Publications</a></li>
+          
+            
+          
+            
+          
+            
+        <li class="masthead__menu-item"><a href="/#-awards">Awards</a></li><li class="masthead__menu-item"><a href="/#-honors">Honors</a></li><li class="masthead__menu-item"><a href="/#-projects">Projects</a></li><li class="masthead__menu-item"><a href="/#-activities">Activities</a></li></ul>
+        <ul class="hidden-links hidden"><li class="masthead__menu-item"><a href="/#-social-practices">Social Practices</a></li><li class="masthead__menu-item"><a href="/#-invited-talks">Invited Talks</a></li><li class="masthead__menu-item"><a href="/#-dispersions">Dispersions</a></li></ul>
+      </nav>
+    </div>
+  </div>
+</div>
 <h2><a href = "https://joe.github.io" target="_blank" 
 style= "color:black; text-decoration:none;">Kechen Li</a></h2>
 <hr/> 
@@ -42,19 +62,19 @@ style= "color:black; text-decoration:none;">Kechen Li</a></h2>
 <br/>
 <h1>🎓Education</h1>
 <hr width = 775px align = "left"/> 
-●&ensp;University of Galway, Ireland &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;09/2025 - 07/2026<br/>
+●<b>09/2025 - 07/2026</b>&ensp;&ensp;University of Galway, Ireland 
 Computer Science and Technology <br/>
 Core Modules: Data Analytics Programming, Networks and Network Science, Data Visualization, Data Analytics Case Studies<br/>
-●&ensp;Nanjing Agricultural University&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;07/2022-08/2026(expected)<br/>
+●<b>07/2022-08/2026(expected)</b>&ensp;&ensp;Nanjing Agricultural University
 Bachelor’s Degree in Business Administration (Part-Time)<br/>
 Core Modules: Modern Project Management, Data Modelling and Decision Making, Financial Management, Enterprise Business Strategy, Financial Theory and Practise<br/>
-●&ensp;Nanjing University of Aeronautics and Astronautics &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;09/2023-07/2025<br/>
+●<b>09/2023-07/2025</b>&ensp;&ensp;Nanjing University of Aeronautics and Astronautics &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<br/>
 Higher Education for Academic Qualification in Software Engineering (Full-Time)<br/>
-●&ensp;Nanjing University of Aeronautics and Astronautics&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;10/2019- 12/2024 (expected)<br/>
+●<b>10/2019- 12/2024 (expected)</b>&ensp;&ensp;Nanjing University of Aeronautics and Astronautics<br/>
 Computer Science and Technology
 Core Modules: Advanced Mathematics, Discrete Mathematics, C++ Programming, Computer Networks, Computer System Architecture, Data Structures, Software Engineering, Operating Systems<br/>
-●&ensp;Nantong Normal College&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;09/2018-07/2023<br/>
-Higher Education Diploma in Computer Application Technology<br/>
+●<b>09/2018-07/2023</b>&ensp;&ensp;Nantong Normal College<br/>
+Higher Education Diploma in Computer Application Technology
 Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Application Development<br/>
 
 <h1>⭐Publications</h1>
@@ -94,7 +114,8 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <hr width = 775px align = "left"/> 
 <p> <font size = "4.5">
 <b>Jiangsu Lincheng Technology Co., Ltd. (Member of Nantong Software Industry Association)</b>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;10/2021–present
+<br/>10/2021–present
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <br/><i>Legal representative，CEO</i> 
 <br/>●&ensp;Led the team in independent development of multiple products, responsible for project portfolio management, software architecture design, etc.
 <br/>●&ensp;Successfully secure multiple national software copyrights.
@@ -110,22 +131,22 @@ Core Modules: Java Programming, C Programming, Dynamic Web Design, Database Appl
 <br/>
 <br/>
 <b>Nantong Normal College. </b> 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;04/2023–06/2023
+<br/>04/2023–06/2023
 <br/><i>Corporate External Instructor, School of Management</i>  
 <br/>●&ensp;Designed and taught content for five distinct educational units, including two classes on Cross-border E-commerce and Data Analysis and Online Store Operation and Management.
 <br/><Managed a workload of 12 weekly teaching hours, effectively delivering course material and engaging students in learning.
 <br/>●&ensp;Demonstrated strong teaching skills and effectively communicated complex concepts, resulting in positive student feedback and academic success.
 <br/>
-     <br/>
+<br/>
 <b>Hai’an City Teacher Development Centre Affiliated Primary School.</b>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;04/2022–05/2022
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <br/><i>Primary Teacher</i>  
 <br/>●&ensp;Crafted and executed comprehensive software programming workshops for intermediate-level learners, immersing students in the intricacies of coding languages and fostering a deep understanding of algorithmic concepts.
 <br/>●&ensp;Devised and facilitated interactive coding challenges and projects, cultivating a dynamic learning environment that honed students’ problem-solving skills and nurtured their creativity in software development.
 <br/>
  <br/>
-<b>kdf.ai.</b> 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;07/2022–11/2022
+<b>kdf.ai.</b>
+ <br/>07/2022–11/2022
 <br/><i>Software Engineer, Technical Department</i>  
 <br/>●&ensp;Developed data annotation software with key features, including data set importing, displaying comprehensive data content, querying information, and modifying and deleting information.
 <br/>●&ensp;Implemented user-specific text annotation capabilities, allowing users to annotate assigned texts for subsequent natural language processing tasks.
