@@ -4,18 +4,48 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    body {
-      margin-right: 10%; 
-      margin-left: 10%; 
-      margin-top: 5%; 
-      padding: 0;
-      display: flex;
+  .navbar {
+  background-color: #ffffff;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%; 
+  z-index: 1000;
+}
+.sidebar img {
+    width: 100px; 
+    height: auto;
+    border-radius: 50%; 
+    margin: 10px;
+    display: block;
+  }
+
+body {
+  margin-right: 10%; 
+  margin-left: 10%; 
+  margin-top: 10%; 
+  padding-top: 30px;
+  display: flex;
+}
+    .navbar a {
+      float: left;
+      display: block;
+      color: #333;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
     }
+
+    /* 鼠标悬停时改变链接颜色 */
+    .navbar a:hover {
+      color: black;
+    }
+
 
     .sidebar {
       position: fixed;
       top:10%;
-      left: 20px;
+      left:10%;
       width: calc(30% - 40px);
       display: flex;
       flex-direction: column;
@@ -34,13 +64,6 @@
       box-sizing: border-box;
     }
 
-    .profile-image {
-      width: 100px;
-      height: 100px;
-      border-radius: 50%;
-      background-color: #ccc;
-      margin-bottom: 10px;
-    }
 
     .name {
       font-weight: bold;
@@ -51,6 +74,7 @@
     .school {
       font-style: italic;
       margin-bottom: 5px;
+      line-height: 3.6; 
     }
 
     .contact {
@@ -67,6 +91,16 @@
   </style>
 </head>
 <body>
+  <div class="navbar">
+    <a href="#Page">HomePage</a>
+    <a href="#Education">Education</a>
+    <a href="#Publications">Publications</a>
+    <a href="#Certificate">Certificate</a>
+    <a href="#Projects">Projects</a>
+    <a href="#Experience">Experience</a>
+    <a href="#Activity">Extracurricular Activity</a>
+    <a href="#Copyrights">Copyrights</a>
+    <a href="#Honors">Honors and Awards</a>
   <div class="sidebar">
     <div class="profile-image"></div>
     <div class="name">KeChen Li</div>
